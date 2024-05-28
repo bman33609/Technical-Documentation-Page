@@ -14,9 +14,9 @@
 
 <h2>Objectives:</h2>
 
-- <b>Create a simple web app using only html and css:</b> 
-- <b>Have the app include some technical knowledge regarding Java fundamentals:</b>
-- <b>Develop the app with an interactive/responsive navbar:</b> 
+- <b>Create a simple web app using only html and css</b> 
+- <b>Have the app include some technical knowledge regarding Java fundamentals</b>
+- <b>Develop the app with an interactive/responsive navbar</b> 
 
 
 
