@@ -24,11 +24,11 @@
 
 <p align="center">
 Getting started: <br/>
-<img src="https://i.imgur.com/mAaLgt3.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/HIYIbol.png" height="80%" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
  Printing to console: <br/>
-<img src="https://i.imgur.com/QRh2IjA.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/UE9W7zQ.png" height="80%" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
 Declaring functions:  <br/>
