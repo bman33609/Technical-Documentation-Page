@@ -24,19 +24,19 @@
 
 <p align="center">
 Getting started: <br/>
-<img src="https://i.imgur.com/HIYIbol.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/CrODL0s.png" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
  Printing to console: <br/>
-<img src="https://i.imgur.com/UE9W7zQ.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/3azNywa.png" height="80%" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
 Declaring functions:  <br/>
-<img src="https://i.imgur.com/jzBJ5MZ.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/B1sb69V.png" height="80%" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
 Object oriented programming:  <br/>
-<img src="https://i.imgur.com/rdT68Hc.png" height="80%" width="80%" alt="Technical Documentation Page"/>
+<img src="https://i.imgur.com/oDvJ0gu.png" height="80%" width="80%" alt="Technical Documentation Page"/>
 <br />
 <br />
 
